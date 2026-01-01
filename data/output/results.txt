@@ -1,0 +1,11 @@
+PROC PRINT:
+Displays the student dataset.
+
+PROC SORT:
+Sorts students by age.
+
+PROC MEANS:
+Calculates average age (Mean = 22).
+
+PROC FREQ:
+Shows gender distribution (2 Male, 2 Female).
